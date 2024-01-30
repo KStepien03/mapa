@@ -1,0 +1,15 @@
+Trasa: Katowice --> Torun (355 km):
+Katowice --> Czestochowa 70 km
+Czestochowa --> Lodz 120 km
+Lodz --> Torun 165 km
+
+Trasa: Krakow --> Poznan (465 km):
+Krakow --> Katowice 70 km
+Katowice --> Czestochowa 70 km
+Czestochowa --> Lodz 120 km
+Lodz --> Poznan 205 km
+
+Trasa: Wroclaw --> Katowice (Trasa niemozliwa do wyznaczenia)
+
+Trasa: Rusiec --> Warszawa (Brak informacji o polaczeniu)
+
